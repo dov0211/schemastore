@@ -3213,3 +3213,11 @@
     }
   ]
 }
+ { 
+   "name": "gitlab-ci", 
+   "description": "JSON schema for configuring Gitlab CI", 
+   "fileMatch": [ 
+     "*.gitlab-ci.yml" 
+   ], 
+   "url": "https://json.schemastore.org/gitlab-ci.json" 
+ }, 
